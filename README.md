@@ -11,7 +11,7 @@ A module is required that has an algorithm to find all pairs of integers within 
 - Think carefully about any error handling that may be required.
 - Unit tests should be produced to ensure all functionality works as expected.
 
-## Steps to configure the module and test scripts:
+## Steps to configure and replicate the module and test scripts:
 
 1. type 'npm i' in the terminal to install node_modules and dependencies
 2. create index.tsx file to write the function that satisfies the task. export the function
