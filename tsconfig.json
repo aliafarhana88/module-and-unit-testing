@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "types": [
+        "mocha",
+        // ... your other types
+      ],
+      "jsx" : "react"
+      // ... your other options
+    },
+    // "include": [
+    //     // "src/**/*",
+    //     // "**/*.spec.ts",
+    //     // "**/*.test.ts"
+    //   ],
+    //   "exclude": [
+    //     // "**/*.test.ts"
+    //   ],
+  }
